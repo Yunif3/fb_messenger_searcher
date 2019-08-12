@@ -49,6 +49,8 @@ def slang():
         output = "incorrect word"
     return output
 
+# add stuff for youtube 
+
 display = Display(visible=0, size=(800, 800))
 display.start()
 
